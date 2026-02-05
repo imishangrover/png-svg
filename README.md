@@ -1,1 +1,1 @@
-hello to my png-svg converter
+png-svg converter
